@@ -1,4 +1,5 @@
 use inc::Module::Install;
+use Module::Install::Repository;
 use strict;
 use warnings;
 name 'MooseX-Types-Email-Loose';
