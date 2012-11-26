@@ -16,6 +16,7 @@ test_requires 'Test::Exception';
 test_requires 'namespace::autoclean';
 
 tests 't/*.t';
+author_tests 'xt';
 
 auto_set_repository;
 auto_include;
